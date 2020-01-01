@@ -1,15 +1,15 @@
-# GMenuNX
+# GMenuFX
 
-[GMenuNX](https://github.com/pingflood/GMenuNX/) is a fork of [GMenu2X](http://mtorromeo.github.com/gmenu2x) developed to Retrogame RS-97, released under the GNU GPL license v2.
+[GMenuFX](https://github.com/Ogami-FR/GMenuFX/) is a fork of [GMenuNX](https://github.com/pingflood/GMenuNX/) and [GMenu2X](http://mtorromeo.github.com/gmenu2x) developed to LDK Game.
 
 View releases [changelog](ChangeLog.md).
 
 
 ## Installation
 
-Unpack the latest [Release](https://github.com/pingflood/GMenuNX/releases/) over your current GMenu2X directory, or download the latest binary and replace it in your device.
+Unpack the latest [Release](https://github.com/Ogami-FR/GMenuFX/releases/) over your current GMenu2X directory, or download the latest binary and replace it in your device.
 
-(Re)Boot your device and enjoy [GMenuNX](https://github.com/pingflood/GMenuNX/).
+(Re)Boot your device and enjoy [GMenuFX](https://github.com/Ogami-FR/GMenuFX/).
 
 
 ## Controls
