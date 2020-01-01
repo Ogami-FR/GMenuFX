@@ -12,7 +12,7 @@ GMenuFX:
 * Add safe recovery gmenu2x.conf, input.conf, skins/daefault/skin.conf;
 * Add new font for Clock and texts of Taskbar;
 
-
+---------------------------------------------------------------
 GMenuNX: 
 **2018.09.16** (*Codename: No more tears (AKA: My work is done here).*)
 * Renamed fork to GMenuNX;
