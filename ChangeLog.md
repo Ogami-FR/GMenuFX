@@ -1,6 +1,6 @@
 ## Changelog
 
-////GMenuFX
+*GMenuFX*;
 **2019.12.31** (for RetroFW 1.2 - LDK Game)
 * Renamed fork to GMenuFX;
 * Add real time clock and use a new methods Power off/on;
@@ -13,7 +13,7 @@
 * Add new font for Clock and texts of Taskbar;
 
 
-////GMenuNX
+*GMenuNX*;
 **2018.09.16** (*Codename: No more tears (AKA: My work is done here).*)
 * Renamed fork to GMenuNX;
 * New gridded menu layout:
