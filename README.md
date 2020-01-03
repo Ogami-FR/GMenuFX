@@ -1,4 +1,4 @@
-# GMenuFX - with RTC !
+# GMenuFX - with RTC ! for RetroFW 1.2
 <br>[GMenuFX](https://github.com/Ogami-FR/GMenuFX/) is a fork of [GMenuNX](https://github.com/pingflood/GMenuNX/) and [GMenu2X](http://mtorromeo.github.com/gmenu2x) developed for LDK Game.
 ## No longer use the On / Off button on your LDK to maintain the clock (RTC) !!
 <br>New trick On/Off on LDK Game:
